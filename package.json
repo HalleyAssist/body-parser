@@ -14,7 +14,7 @@
     "debug": "2.6.9",
     "depd": "~1.1.2",
     "http-errors": "~1.6.3",
-    "iconv-lite": "0.4.23",
+    "iconv": "^2.3.1",
     "on-finished": "~2.3.0",
     "qs": "6.5.2",
     "raw-body": "git+https://github.com/HalleyAssist/raw-body.git",
