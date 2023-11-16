@@ -9,6 +9,7 @@
   "license": "MIT",
   "repository": "expressjs/body-parser",
   "dependencies": {
+    "media-typer": "0.3.0",
     "bytes": "3.0.0",
     "content-type": "~1.0.4",
     "debug": "2.6.9",
@@ -16,8 +17,7 @@
     "http-errors": "~1.6.3",
     "on-finished": "~2.3.0",
     "qs": "6.5.2",
-    "raw-body": "git+https://github.com/HalleyAssist/raw-body.git",
-    "type-is": "~1.6.16"
+    "raw-body": "git+https://github.com/HalleyAssist/raw-body.git"
   },
   "devDependencies": {
     "eslint": "4.19.1",
