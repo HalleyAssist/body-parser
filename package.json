@@ -18,7 +18,6 @@
     "on-finished": "2.4.1",
     "qs": "6.13.0",
     "raw-body": "git+https://github.com/HalleyAssist/raw-body.git",
-    "type-is": "~1.6.18",
     "unpipe": "1.0.0"
   },
   "devDependencies": {
